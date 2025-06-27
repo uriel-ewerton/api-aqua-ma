@@ -135,3 +135,6 @@ http://localhost:3000/api
   "senha": "123456"
 }
 ```
+
+📄 Licença
+Este projeto está licenciado sob a licença MIT.
