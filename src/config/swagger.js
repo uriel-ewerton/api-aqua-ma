@@ -69,7 +69,7 @@ const swaggerDefinition = {
         },
         // Define o esquema de segurança para o nosso token
         securitySchemes: {
-            ApiKeyAuth: {
+            bearerAuth: {
                 type: 'apiKey',
                 in: 'header',
                 name: 'x-auth-token',
